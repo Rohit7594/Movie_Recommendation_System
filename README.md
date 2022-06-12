@@ -2,7 +2,7 @@
 
 Recommender System is a system that seeks to predict or filter preferences according to the user's choices. Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general.
 
-It's a Movie Recommender System that contains more then 5 thousand movies data. The system output gives you top five recommended movies based on your selected movie.
+This Movie Recommender System contains more then 5 thousand movies data. The system output gives you top five recommended movies based on your selected movie.
 
 It works on count vectorizer #NLP of tags (overview, genres, keywords, cast & crew). 
 
