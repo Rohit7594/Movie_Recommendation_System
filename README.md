@@ -4,7 +4,7 @@ Recommender System is a system that seeks to predict or filter preferences accor
 
 This Movie Recommender System contains more then 5 thousand movies data. The system output gives you top five recommended movies based on your selected movie.
 
-It works on count vectorizer #NLP of tags (overview, genres, keywords, cast & crew). 
+It works on CountVectorizer #NLP of tags (overview, genres, keywords, cast & crew). 
 
 Data source: TMDB dataset from #kaggle. 
 
